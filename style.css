@@ -1,0 +1,36 @@
+
+
+body {
+  font-family: 'Comic Neue', cursive;
+  text-align: center;
+  padding: 50px;
+  background: #2ca121;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #f0ebeb;
+}
+
+button {
+  padding: 1.5rem 3rem;
+  font-size: 2rem;
+  background-color: #4caf50;
+  color: rgb(31, 27, 27);
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #85d389;
+}
+
+p {
+  font-size: 2rem;
+  margin-top: 40px;
+  color: #222;
+  font-family: 'Patrick Hand', cursive;
+}
